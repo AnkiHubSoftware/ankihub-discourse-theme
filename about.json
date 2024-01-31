@@ -1,0 +1,47 @@
+{
+  "name": "AnkiHub",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "AnkiHub Light": {
+      "primary": "383e46",
+      "primary-medium": "70767e",
+      "primary-high": "4d5766",
+      "secondary": "fff",
+      "tertiary": "4f46e5",
+      "quaternary": "4f46e5",
+      "header_background": "f3f4f6",
+      "header_primary": "3730a3",
+      "highlight": "4f46e5",
+      "selected": "e9e9e9",
+      "hover": "f2f2f2",
+      "danger": "dc2626",
+      "success": "16a34a",
+      "love": "9333ea"
+    },
+    "AnkiHub Dark": {
+      "primary": "e9e9e9",
+      "secondary": "222222",
+      "tertiary": "9395ed",
+      "quaternary": "e9e9e9",
+      "header_background": "222222",
+      "header_primary": "e9e9e9",
+      "highlight": "9333ea",
+      "selected": "e9e9e9",
+      "hover": "454791",
+      "danger": "dc2626",
+      "success": "16a34a",
+      "love": "fca5a5"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}

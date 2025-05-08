@@ -3,8 +3,8 @@
   "component": false,
   "license_url": null,
   "about_url": null,
-  "authors": null,
-  "theme_version": null,
+  "authors": "AnkiHub",
+    "theme_version": "20250411",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {

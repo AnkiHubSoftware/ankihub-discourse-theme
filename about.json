@@ -7,41 +7,39 @@
   "theme_version": null,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
-  "assets": {
-  },
+  "assets": {},
   "color_schemes": {
     "AnkiHub Light": {
-      "primary": "383e46",
+      "primary": "0d1520",
       "primary-medium": "70767e",
       "primary-high": "4d5766",
-      "secondary": "fff",
-      "tertiary": "4f46e5",
-      "quaternary": "4f46e5",
+      "secondary": "ffffff",
+      "tertiary": "1e96f0",
+      "quaternary": "50c8ff",
       "header_background": "f3f4f6",
-      "header_primary": "3730a3",
-      "highlight": "4f46e5",
+      "header_primary": "1e96f0",
+      "highlight": "1e96f0",
       "selected": "e9e9e9",
-      "hover": "f2f2f2",
+      "hover": "f2f3f5",
       "danger": "dc2626",
       "success": "16a34a",
-      "love": "9333ea"
+      "love": "1e96f0"
     },
     "AnkiHub Dark": {
       "primary": "e9e9e9",
-      "secondary": "222222",
-      "tertiary": "6366F1",
+      "secondary": "0d1520",
+      "tertiary": "1e96f0",
       "quaternary": "e9e9e9",
-      "header_background": "222222",
+      "header_background": "0d1520",
       "header_primary": "e9e9e9",
-      "highlight": "9333ea",
+      "highlight": "1e96f0",
       "selected": "e9e9e9",
-      "hover": "454791",
+      "hover": "394453",
       "danger": "dc2626",
       "success": "16a34a",
-      "love": "fca5a5"
+      "love": "50c8ff"
     }
   },
-  "modifiers": {
-  },
+  "modifiers": {},
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
